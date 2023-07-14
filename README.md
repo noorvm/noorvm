@@ -13,13 +13,10 @@ Welcome to my GitHub profile! I'm currently pursuing B.Tech in Computer Science 
 - Python for machine learning and data analysis.
 
 ## 📫 How to reach me
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/noormohammed)
 - Follow me on [instagram](https://instagram.com/noor_v.m)
 
-## 😄 Fun fact
-I believe in the power of coding and coffee to solve all problems. ☕️💻
+I believe in the power of coding and chai☕️ to solve all problems. ☕️💻
 
-## 🤣 Random Funny Quote
 "Programmers never die, they just go offline." 😄
 
 Feel free to explore my repositories and projects. Don't forget to leave a ⭐️ if you find something interesting! Let's code and have fun together! 🚀
