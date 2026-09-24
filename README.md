@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Noor Mohammed
 
-Welcome to my GitHub profile! I'm currently pursuing B.Tech in Computer Science at CUSAT. I'm passionate about coding, problem-solving, and exploring new technologies. 
+Welcome to my GitHub profile! I'm B.Tech Computer Science Graduate at CUSAT. I'm passionate about coding, problem-solving, and exploring new technologies. 
 
 ## 🔭 What I'm currently working on
 - Building cool web applications using the MERN stack.
