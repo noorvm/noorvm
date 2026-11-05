@@ -1,22 +1,54 @@
-# Hi there! 👋 I'm Noor Mohammed
+# Hi, I'm Noor Mohammed 👋
 
-Welcome to my GitHub profile! I'm B.Tech Computer Science Graduate at CUSAT. I'm passionate about coding, problem-solving, and exploring new technologies. 
+### Python Developer | Backend Development | Web Applications
 
-## 🔭 What I'm currently working on
-- Building cool web applications using the MERN stack.
-- Improving my problem-solving skills through coding challenges and competitions.
-- Learning more about machine learning and data science.
+I'm a Computer Science graduate passionate about building practical software applications and continuously improving my programming skills.
 
-## 🌱 I'm currently learning
-- React.js and Redux for front-end development.
-- Node.js and Express.js for back-end development.
-- Python for machine learning and data analysis.
+Currently exploring backend and full-stack development, with a focus on Python, FastAPI and React.
 
-## 📫 How to reach me
-- Follow me on [instagram](https://instagram.com/noor_v.m)
+### 🚀 What I'm working on
 
-I believe in the power of coding and chai☕️ to solve all problems. ☕️💻
+- 🧾 Developing a POS Billing Software using Python and FastAPI.
+- 🌐 Learning React and modern frontend development.
+- 🐍 Improving my Python programming and problem-solving skills.
+- 🗄️ Exploring databases, REST APIs and backend architecture.
 
-"Programmers never die, they just go offline." 😄
+### 🛠️ Tech Stack
 
-Feel free to explore my repositories and projects. Don't forget to leave a ⭐️ if you find something interesting! Let's code and have fun together! 🚀
+**Languages**
+- Python
+- JavaScript
+- C
+
+**Backend**
+- FastAPI
+- REST APIs
+
+**Frontend**
+- React.js
+- HTML
+- CSS
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+### 📌 Featured Projects
+
+- **POS Billing Software** – A point-of-sale application for billing and sales management.
+- **DSA Problems** – Python programming and problem-solving practice.
+- **Mess Expense Analytics** – Expense tracking and data analysis.
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noorvm&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorvm&layout=compact&theme=tokyonight)
+
+### 📫 Connect with me
+
+- GitHub: https://github.com/noorvm
+
+---
+⭐ Always learning. Always building.
