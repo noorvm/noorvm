@@ -37,6 +37,7 @@ Currently exploring backend and full-stack development, with a focus on Python, 
 ### 📌 Featured Projects
 
 - **POS Billing Software** – A point-of-sale application for billing and sales management.
+- **Expense-Tracker** - A web-based application to record, manage, and monitor daily income and expenses with category-wise tracking and expense summaries.
 - **DSA Problems** – Python programming and problem-solving practice.
 - **Mess Expense Analytics** – Expense tracking and data analysis.
 
