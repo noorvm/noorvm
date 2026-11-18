@@ -50,6 +50,7 @@ Currently exploring backend and full-stack development, with a focus on Python, 
 ### 📫 Connect with me
 
 - GitHub: https://github.com/noorvm
+- Linkedin: https://www.linkedin.com/in/noor-mohammed-1190a23b8/
 
 ---
 ⭐ Always learning. Always building.
